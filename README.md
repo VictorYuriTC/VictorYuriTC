@@ -12,12 +12,20 @@ HTML, JavaScript, React.js (Class components and Functional Components) & Redux
 CSS & Tailwind
 <br>
 Jest & React Testing Library
+<br>
+Scrum & Kanban
 
 ### Back-end:
 Docker & MySQL
 
 ### Game development:
 Lua & Love2D
+
+- - - -
+
+# Soft skills
+
+### Criativity
 
 - - - -
 
