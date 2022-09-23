@@ -63,13 +63,13 @@
   
 - - - -
   
-Contact
+**Contact**
    * Email: victoryuritc@yahoo.com
    * LinkedIn: [Victor Yuri Tavares de Camargo]()
 
 - - - -
   
-Hard skills
+*Hard skills*
 
    * Front-end
       * Input state management:
