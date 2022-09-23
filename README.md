@@ -17,10 +17,14 @@
    * Scrum & Kanban
 
 ### Back-end:
-Docker & MySQL
+* Relational database:
+   * Docker & MySQL
 
 ### Game development:
-Lua & Love2D
+* Main language:
+   * Lua
+* Engines/frameworks:
+   * Love2D
 
 - - - -
 
