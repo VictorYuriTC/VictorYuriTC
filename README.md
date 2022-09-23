@@ -5,16 +5,16 @@
 
 - - - -
 
-Front-end:
-HTML, JavaScript, React.js (Class components and Functional Components) & Redux
-CSS & Tailwind
-Jest & React Testing Library
+### Front-end:
+##### HTML, JavaScript, React.js (Class components and Functional Components) & Redux
+##### CSS & Tailwind
+##### Jest & React Testing Library
 
-Back-end:
-Docker & MySQL
+### Back-end:
+##### Docker & MySQL
 
-Game development:
-Lua & Love2D
+### Game development:
+##### Lua & Love2D
 
 <details>
 <summary>Português</summary>
