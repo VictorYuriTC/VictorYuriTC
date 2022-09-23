@@ -1,3 +1,32 @@
+**<details>**
+<summary>Sobre mim</summary>
+
+* Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
+* Origem: Curitiba, Paraná, Brasil
+* Estudante desde 21/03/2022
+* Hobbies:
+   * Escutar variados gêneros musicais, desde Frank Sinatra :tophat: a Pharrell Williams :smile:, de Hans Zimmer :hourglass: a Paolo Nutini :scotland:
+   * Desenvolver jogos de aventura, plataforma e construção de cidades em 2D
+   * Aprender sobre aspectos culturais de diferentes países, lugares e povos
+
+</details>
+
+<details>
+<summary> About me </summary>
+<br>
+ 
+* Full-stack Web Development student at [Trybe](https://github.com/tryber)
+* Origin: Curitiba, Paraná, Brasil
+* Student since 03/21/2022
+* Hobbies:
+   * Listening diversified music genres, from Frank Sinatra :tophat: to Pharrell Williams :smile:, from Hans Zimmer :hourglass: to Paolo Nutini :scotland:
+   * Developing 2D adventure, platform and city-building games
+   * Learning about cultural aspects from different countries, places and people
+</details>
+
+- - - -
+
+### Contact
 
 #### Email: victoryuritc@yahoo.com
 #### LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
@@ -37,32 +66,6 @@
 * Communication
 
 - - - -
-
-**<details>**
-<summary>Sobre mim</summary>
-
-* Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
-* Origem: Curitiba, Paraná, Brasil
-* Estudante desde 21/03/2022
-* Hobbies:
-   * Escutar variados gêneros musicais, desde Frank Sinatra :tophat: a Pharrell Williams :smile:, de Hans Zimmer :hourglass: a Paolo Nutini :scotland:
-   * Desenvolver jogos de aventura, plataforma e construção de cidades em 2D
-   * Aprender sobre aspectos culturais de diferentes países, lugares e povos
-
-</details>
-
-<details>
-<summary> About me </summary>
-<br>
- 
-* Full-stack Web Development student at [Trybe](https://github.com/tryber)
-* Origin: Curitiba, Paraná, Brasil
-* Student since 03/21/2022
-* Hobbies:
-   * Listening diversified music genres, from Frank Sinatra :tophat: to Pharrell Williams :smile:, from Hans Zimmer :hourglass: to Paolo Nutini :scotland:
-   * Developing 2D adventure, platform and city-building games
-   * Learning about cultural aspects from different countries, places and people
-</details>
 
 [![Languages I've used](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYuriTC)](https://github.com/anuraghazra/github-readme-stats)
 
