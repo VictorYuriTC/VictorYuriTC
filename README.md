@@ -1,7 +1,7 @@
 # <h1 align="center">Hello World!</h1>
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYuriTC&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYuriTC&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 **<details>**
