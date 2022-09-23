@@ -22,6 +22,9 @@
          * Jest & React Testing Library
       * Metodologias ágeis:
          * Scrum & Kanban
+  
+- - - -
+  
 * Origem: Curitiba, Paraná, Brasil
 * Estudante desde 21/03/2022
 * Hobbies:
