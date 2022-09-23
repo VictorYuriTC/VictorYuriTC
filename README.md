@@ -3,7 +3,7 @@
 **<details>**
 <summary>Sobre mim</summary>
 
-* **Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)**
+**Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)**
   
 - - - -
   
@@ -14,7 +14,7 @@
 - - - -
 
 * **Hard skills**
-   * Front-end:
+   * Front-end
       * Gerenciamento de estado de inputs:
          * HTML, JavaScript, React.js (Class components and Functional Components) & Redux
       * Styles:
@@ -23,12 +23,12 @@
          * Jest & React Testing Library
       * Metodologias ágeis:
          * Scrum & Kanban
-   * Back-end:
+   * Back-end
       * Banco de dados relacionais:
          * MySQL
       * Outros:
          * Docker
-   * Desenvolvimento de jogos:
+   * Desenvolvimento de jogos
       * Language:
          * Lua
       * Engines/frameworks:
@@ -57,6 +57,12 @@
 <summary> About me </summary>
 <br>
   
+- - - -
+
+**Full-stack Web Development student at [Trybe](https://github.com/tryber)**
+  
+- - - -
+  
 * Contact
    * Email: victoryuritc@yahoo.com
    * LinkedIn: [Victor Yuri Tavares de Camargo]()
@@ -65,7 +71,7 @@
   
 * Hard skills
 
-   * Front-end:
+   * Front-end
       * Input state management:
          * HTML, JavaScript, React.js (Class components and Functional Components) & Redux
       * Styles:
@@ -85,8 +91,7 @@
       * Engines/frameworks:
          * Love2D
 - - - -
- 
-* Full-stack Web Development student at [Trybe](https://github.com/tryber)
+
 * Origin: Curitiba, Paraná, Brasil
 * Student since 03/21/2022
 * Hobbies:
