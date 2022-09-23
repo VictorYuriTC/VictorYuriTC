@@ -21,7 +21,9 @@
 ###### Student since 03/21/2022
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYuriTC)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorYuriTC&repo=github-readme-stats" />
+</a>
 
 
 <!--
