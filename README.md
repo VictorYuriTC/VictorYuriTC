@@ -37,6 +37,31 @@
 <details>
 <summary> About me </summary>
 <br>
+  
+* Contact
+   * Email: victoryuritc@yahoo.com
+   * LinkedIn: [Victor Yuri Tavares de Camargo]()
+
+- - - -
+  
+* Hard skills
+
+   * Front-end:
+      * Input state management:
+         * HTML, JavaScript, React.js (Class components and Functional Components) & Redux
+      * Styles:
+         * CSS & Tailwind
+      * Tests:
+         * Jest & React Testing Library
+      * Agile methodologies:
+         * Scrum & Kanban
+<br>
+* Back-end
+   * Relational database:
+      * MySQL
+   * Others:
+      * Docker
+- - - -
  
 * Full-stack Web Development student at [Trybe](https://github.com/tryber)
 * Origin: Curitiba, Paraná, Brasil
@@ -49,23 +74,6 @@
 
 - - - -
 
-* Hard skills
-
-   * Front-end:
-      * Input state management:
-         * HTML, JavaScript, React.js (Class components and Functional Components) & Redux
-      * Styles:
-         * CSS & Tailwind
-      * Tests:
-         * Jest & React Testing Library
-      * Agile methodologies:
-         * Scrum & Kanban
-
-##### Back-end:
-* **Relational database:**
-   * MySQL
-* **Others:**
-   * Docker
 
 ##### **Game development:**
 * Main language:
