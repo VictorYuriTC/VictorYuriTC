@@ -1,7 +1,7 @@
 # <h1 align="center">Hello World!</h1>
 
-**<details>**
-<summary>Português</summary>
+<details>
+<summary># Português</summary>
 
 **Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)**
   
