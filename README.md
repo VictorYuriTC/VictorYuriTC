@@ -32,8 +32,8 @@
 
 ## Soft skills
 
-#### Criativity
-#### Leadership
+* Criativity
+* Leadership
 
 - - - -
 
