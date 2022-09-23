@@ -56,6 +56,7 @@
       * Agile methodologies:
          * Scrum & Kanban
 <br>
+
 * Back-end
    * Relational database:
       * MySQL
