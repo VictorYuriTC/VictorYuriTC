@@ -23,12 +23,12 @@
          * Jest & React Testing Library
       * Metodologias ágeis:
          * Scrum & Kanban
-   * Back-end
+   * Back-end:
       * Banco de dados relacionais:
          * MySQL
       * Outros:
          * Docker
-   * Desenvolvimento de jogos
+   * Desenvolvimento de jogos:
       * Language:
          * Lua
       * Engines/frameworks:
