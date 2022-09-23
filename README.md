@@ -13,12 +13,12 @@
 ###### Lua and Love2D
 
 ##### Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
-##### Origem: Curitiba, Paraná, Brasil
-##### Estudante desde 21/03/2022
+#### Origem: Curitiba, Paraná, Brasil
+#### Estudante desde 21/03/2022
 
 ##### Full-stack Web Development student at [Trybe](https://github.com/tryber)
-##### Origin: Curitiba, Paraná, Brasil
-##### Student since 03/21/2022
+#### Origin: Curitiba, Paraná, Brasil
+#### Student since 03/21/2022
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYuriTC)](https://github.com/anuraghazra/github-readme-stats)
