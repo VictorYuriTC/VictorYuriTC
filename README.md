@@ -28,10 +28,10 @@ Escutar variados gêneros musicais, desde Frank Sinatra :tophat: a Pharrell Will
 Desenvolver jogos de aventura, plataforma e construção de cidades em 2D
 Aprender sobre aspectos culturais de diferentes países, lugares e povos
 
-1. A numbered list
-   1. A nested numbered list
-   2. Which is numbered
-2. Which is numbered
+* Bullet list
+   * Nested bullet
+   * Sub-nested bullet etc
+* Bullet list item 2
 
 </details>
 
