@@ -20,10 +20,7 @@
 ###### Origin: Curitiba, Paraná, Brasil
 ###### Student since 03/21/2022
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorYuriTC&repo=github-readme-stats" />
-</a>
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorYuriTC)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
