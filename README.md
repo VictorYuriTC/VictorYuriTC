@@ -10,13 +10,13 @@
   
 - - - -
   
-## **Contato**
+### **Contato**
    * Email: victoryuritc@yahoo.com
    * LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
   
 - - - -
 
-## **Hard skills**
+### **Hard skills**
    * Front-end
       * Gerenciamento de estado de inputs:
          * HTML, JavaScript, React.js (Class components and Functional Components) & Redux
@@ -38,14 +38,14 @@
          * Love2D
 - - - -
 
-## **Soft skills**
+### **Soft skills**
    * Criatividade
    * Liderança
    * Comunicação
 
 - - - -
   
-## **Informações pessoais**
+### **Informações pessoais**
   
 * Origem: Curitiba, Paraná, Brasil
 * Estudante desde 21/03/2022
@@ -65,13 +65,13 @@
   
 - - - -
   
-## **Contact**
+### **Contact**
    * Email: victoryuritc@yahoo.com
    * LinkedIn: [Victor Yuri Tavares de Camargo]()
 
 - - - -
   
-## **Hard skills**
+### **Hard skills**
 
    * Front-end
       * Input state management:
@@ -94,14 +94,14 @@
          * Love2D
 - - - -
   
-## **Soft skills**
+### **Soft skills**
    * Criativity
    * Leadership
    * Communication
   
 - - - -
   
-## **Personal info**
+### **Personal info**
 
 * Origin: Curitiba, Paraná, Brasil
 * Student since 03/21/2022
