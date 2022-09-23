@@ -1,6 +1,8 @@
 
 
-### Email: victoryuritc@yahoo.com
+### Email:
+<br>
+victoryuritc@yahoo.com
 ### LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
 
 - - - -
