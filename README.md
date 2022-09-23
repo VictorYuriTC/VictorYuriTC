@@ -34,6 +34,7 @@
 
 * Criativity
 * Leadership
+* Communication
 
 - - - -
 
