@@ -1,7 +1,7 @@
 ### Hello World!
 
 **<details>**
-<summary>Sobre mim</summary>
+<summary>Português</summary>
 
 **Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)**
   
@@ -54,7 +54,7 @@
 </details>
 
 <details>
-<summary> About me </summary>
+<summary>English</summary>
 <br>
   
 - - - -
