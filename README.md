@@ -7,13 +7,13 @@
 # Hard skills
 
 ### Front-end:
-HTML, JavaScript, React.js (Class components and Functional Components) & Redux
+**Input state management:** HTML, JavaScript, React.js (Class components and Functional Components) & Redux
 <br>
-CSS & Tailwind
+**Styles:** CSS & Tailwind
 <br>
-Jest & React Testing Library
+**Tests:** Jest & React Testing Library
 <br>
-Scrum & Kanban
+**Agile methodologies:** Scrum & Kanban
 
 ### Back-end:
 Docker & MySQL
@@ -26,6 +26,8 @@ Lua & Love2D
 # Soft skills
 
 ### Criativity
+### Leadership
+###
 
 - - - -
 
