@@ -99,9 +99,9 @@ Hard skills
   
 - - - -
 
-Origin: Curitiba, Paraná, Brasil
-Student since 03/21/2022
-Hobbies:
+* Origin: Curitiba, Paraná, Brasil
+* Student since 03/21/2022
+* Hobbies:
    * Listening diversified music genres, from Frank Sinatra :tophat: to Pharrell Williams :smile:, from Hans Zimmer :hourglass: to Paolo Nutini :scotland:
    * Developing 2D adventure, platform and city-building games
    * Learning about cultural aspects from different countries, places and people
