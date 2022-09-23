@@ -29,10 +29,8 @@ Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber
    * Aprender sobre aspectos culturais de diferentes países, lugares e povos
 
 * Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
-   * Nested bullet
-     * Sub-nested bullet etc
-* Bullet list item 2
-* Bullet list
+* Origem: Curitiba, Paraná, Brasil
+* Hobbies:
    * Nested bullet
      * Sub-nested bullet etc
 * Bullet list item 2
