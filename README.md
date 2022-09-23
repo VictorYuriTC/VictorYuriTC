@@ -2,8 +2,6 @@
 
 **<details>**
 <summary>Sobre mim</summary>
-* Contato
-   * Email: victoryuritc@yahoo.com
 * Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
 * Origem: Curitiba, Paraná, Brasil
 * Estudante desde 21/03/2022
