@@ -28,6 +28,11 @@
          * MySQL
       * Outros:
          * Docker
+   * Desenvolvimento de jogos
+      * Language:
+         * Lua
+      * Engines/frameworks:
+         * Love2D
 - - - -
 
 * **Soft skills**
@@ -74,6 +79,11 @@
          * MySQL
       * Others:
          * Docker
+   * Game development
+      * Language:
+         * Lua
+      * Engines/frameworks:
+         * Love2D
 - - - -
  
 * Full-stack Web Development student at [Trybe](https://github.com/tryber)
@@ -84,15 +94,6 @@
    * Developing 2D adventure, platform and city-building games
    * Learning about cultural aspects from different countries, places and people
 </details>
-
-- - - -
-
-
-##### **Game development:**
-* Main language:
-   * Lua
-* **Engines/frameworks:**
-   * Love2D
 
 - - - -
 
