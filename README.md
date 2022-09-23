@@ -32,7 +32,7 @@
 </details>
 
 <details>
-<summary> **About me** </summary>
+<summary> __About me__ </summary>
 <br>
  
 * Full-stack Web Development student at [Trybe](https://github.com/tryber)
