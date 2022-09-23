@@ -2,7 +2,7 @@
 ##### LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
 
 <a href="https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/">
-  >img align="left" alt="Victor Camargo's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Victor Camargo's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ##### Front-end: HTML, CSS, Tailwind, JavaScript, Jest, React Testing Library, React.js (Class components and Functional Components) and Redux
