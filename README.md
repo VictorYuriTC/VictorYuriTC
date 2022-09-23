@@ -111,8 +111,14 @@ Hard skills
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorYuriTC&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYuriTC&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<table>
+  <tr>
+    <td valign="top"><img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYuriTC&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table>
 
 <!--
 **VictorYuriTC/VictorYuriTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
