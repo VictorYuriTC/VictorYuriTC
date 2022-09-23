@@ -1,3 +1,17 @@
+Email: victoryuritc@yahoo.com
+LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
+
+Front-end:
+HTML, JavaScript, React.js (Class components and Functional Components) & Redux
+CSS & Tailwind
+Jest & React Testing Library
+
+Back-end:
+Docker & MySQL
+
+Game development:
+Lua & Love2D
+
 <details>
 <summary>Português</summary>
 ### Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
@@ -20,21 +34,6 @@
 ##### Developing 2D adventure, platform and city-building games
 ##### Learning about cultural aspects from different countries, places and people
 </details>
-
-Email: victoryuritc@yahoo.com
-
-LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
-
-Front-end:
-HTML, JavaScript, React.js (Class components and Functional Components) & Redux
-CSS & Tailwind
-Jest & React Testing Library
-
-Back-end:
-Docker & MySQL
-
-Game development:
-Lua & Love2D
 
 [![Languages I've used](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYuriTC)](https://github.com/anuraghazra/github-readme-stats)
 
