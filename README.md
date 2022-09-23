@@ -1,15 +1,15 @@
 ##### Email: victoryuritc@yahoo.com
 ##### LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
 
-##### Front-end:
+### Front-end:
 ###### HTML, JavaScript, React.js (Class components and Functional Components) & Redux
 ###### CSS & Tailwind
 ###### Jest & React Testing Library
 
-##### Back-end:
+### Back-end:
 ###### Docker & MySQL
 
-##### Game development:
+### Game development:
 ###### Lua & Love2D
 
 ##### Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
