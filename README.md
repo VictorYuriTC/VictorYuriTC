@@ -4,6 +4,8 @@
 ##### Already studied HTML, CSS, JS, Jest, React Testing Library and React.js (Class and Functional Components, Redux and Context API).
 ##### Currently studying Docker, MySQL, Software Architecture, Node.js, TypeScript and MongoDB.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYuriTC)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **VictorYuriTC/VictorYuriTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
