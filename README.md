@@ -30,6 +30,7 @@ Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber
 
 * Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
 * Origem: Curitiba, Paraná, Brasil
+* Estudante desde 21/03/2022
 * Hobbies:
    * Escutar variados gêneros musicais, desde Frank Sinatra :tophat: a Pharrell Williams :smile:, de Hans Zimmer :hourglass: a Paolo Nutini :scotland:
    * Desenvolver jogos de aventura, plataforma e construção de cidades em 2D
