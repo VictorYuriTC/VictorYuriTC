@@ -55,7 +55,6 @@
 
 <details>
 <summary>English</summary>
-<br>
   
 - - - -
 
