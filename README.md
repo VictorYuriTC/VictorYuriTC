@@ -2,7 +2,9 @@
 ##### LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
 
 ##### Front-end:
-HTML, CSS, Tailwind, JavaScript, Jest, React Testing Library, React.js (Class components and Functional Components) and Redux
+HTML, JavaScript, React.js (Class components and Functional Components) and Redux
+CSS and Tailwind
+Jest and React Testing Library
 
 ##### Back-end:
 Docker and MySQL
