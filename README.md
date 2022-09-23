@@ -44,12 +44,12 @@
   
 **Informações pessoais**
   
-   * Origem: Curitiba, Paraná, Brasil
-   * Estudante desde 21/03/2022
-   * Hobbies:
-      * Escutar variados gêneros musicais, desde Frank Sinatra :tophat: a Pharrell Williams :smile:, de Hans Zimmer :hourglass: a Paolo Nutini :scotland:
-      * Desenvolver jogos de aventura, plataforma e construção de cidades em 2D
-      * Aprender sobre aspectos culturais de diferentes países, lugares e povos
+* Origem: Curitiba, Paraná, Brasil
+* Estudante desde 21/03/2022
+* Hobbies:
+   * Escutar variados gêneros musicais, desde Frank Sinatra :tophat: a Pharrell Williams :smile:, de Hans Zimmer :hourglass: a Paolo Nutini :scotland:
+   * Desenvolver jogos de aventura, plataforma e construção de cidades em 2D
+   * Aprender sobre aspectos culturais de diferentes países, lugares e povos
 
 </details>
 
@@ -99,9 +99,9 @@ Hard skills
   
 - - - -
 
-* Origin: Curitiba, Paraná, Brasil
-* Student since 03/21/2022
-* Hobbies:
+Origin: Curitiba, Paraná, Brasil
+Student since 03/21/2022
+Hobbies:
    * Listening diversified music genres, from Frank Sinatra :tophat: to Pharrell Williams :smile:, from Hans Zimmer :hourglass: to Paolo Nutini :scotland:
    * Developing 2D adventure, platform and city-building games
    * Learning about cultural aspects from different countries, places and people
