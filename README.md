@@ -4,6 +4,10 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYuriTC&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
+<p align="center">
+  <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYuriTC&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)" alt="Sublime's custom image"/>
+</p>
+
 **<details>**
 <summary>Português</summary>
 
