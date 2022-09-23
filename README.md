@@ -1,3 +1,9 @@
+<details open>
+<summary>Want to ruin the surprise?</summary>
+<br>
+Well, you asked for it!
+</details>
+
 ### Email: victoryuritc@yahoo.com
 
 ### LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
