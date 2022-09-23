@@ -97,6 +97,8 @@
    * Communication
   
 - - - -
+  
+**Personal info**
 
 * Origin: Curitiba, Paraná, Brasil
 * Student since 03/21/2022
