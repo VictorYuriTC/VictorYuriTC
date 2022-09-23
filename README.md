@@ -20,6 +20,8 @@
 ###### Origin: Curitiba, Paraná, Brasil
 ###### Student since 03/21/2022
 
+[![Languages I've used](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorYuriTC)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorYuriTC)](https://github.com/anuraghazra/github-readme-stats)
 
 
