@@ -1,9 +1,10 @@
 
-
 ### Email: victoryuritc@yahoo.com
 ### LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
 
 - - - -
+
+# Hard skills
 
 ### Front-end:
 HTML, JavaScript, React.js (Class components and Functional Components) & Redux
