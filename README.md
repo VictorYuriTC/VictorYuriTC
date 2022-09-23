@@ -68,7 +68,7 @@
 
 - - - -
   
-*Hard skills*
+**Hard skills**
 
    * Front-end
       * Input state management:
