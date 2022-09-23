@@ -1,12 +1,12 @@
 
-### Email: victoryuritc@yahoo.com
-### LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
+#### Email: victoryuritc@yahoo.com
+#### LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
 
 - - - -
 
-## Hard skills
+### Hard skills
 
-#### Front-end:
+##### Front-end:
 * **Input state management:**
    * HTML, JavaScript, React.js (Class components and Functional Components) & Redux
 * **Styles:**
@@ -16,13 +16,13 @@
 * **Agile methodologies:**
    * Scrum & Kanban
 
-#### Back-end:
+##### Back-end:
 * **Relational database:**
    * MySQL
 * **Others:**
    * Docker
 
-#### **Game development:**
+##### **Game development:**
 * Main language:
    * Lua
 * **Engines/frameworks:**
@@ -30,7 +30,7 @@
 
 - - - -
 
-## Soft skills
+### Soft skills
 
 * Criativity
 * Leadership
