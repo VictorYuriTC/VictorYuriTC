@@ -13,7 +13,7 @@
   
 - - - -
 
-* Hard skills
+* **Hard skills**
    * Front-end:
       * Gerenciamento de estado de inputs:
          * HTML, JavaScript, React.js (Class components and Functional Components) & Redux
@@ -30,7 +30,7 @@
          * Docker
 - - - -
 
-* Soft skills
+* **Soft skills**
    * Criativity
    * Leadership
    * Communication
