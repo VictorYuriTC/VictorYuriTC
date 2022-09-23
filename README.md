@@ -12,6 +12,7 @@
    * LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
   
 - - - -
+
 * Hard skills
    * Front-end:
       * Gerenciamento de estado de inputs:
@@ -27,7 +28,13 @@
          * MySQL
       * Outros:
          * Docker
-  
+- - - -
+
+* Soft skills
+   * Criativity
+   * Leadership
+   * Communication
+
 - - - -
   
 * Origem: Curitiba, Paraná, Brasil
@@ -84,14 +91,6 @@
    * Lua
 * **Engines/frameworks:**
    * Love2D
-
-- - - -
-
-### Soft skills
-
-* Criativity
-* Leadership
-* Communication
 
 - - - -
 
