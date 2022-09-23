@@ -6,15 +6,17 @@
 - - - -
 
 ### Front-end:
-##### HTML, JavaScript, React.js (Class components and Functional Components) & Redux
-##### CSS & Tailwind
-##### Jest & React Testing Library
+HTML, JavaScript, React.js (Class components and Functional Components) & Redux
+<br>
+CSS & Tailwind
+<br>
+Jest & React Testing Library
 
 ### Back-end:
-##### Docker & MySQL
+Docker & MySQL
 
 ### Game development:
-##### Lua & Love2D
+Lua & Love2D
 
 - - - -
 
@@ -32,7 +34,7 @@
 </details>
 
 <details>
-<summary> __About me__ </summary>
+<summary> About me </summary>
 <br>
  
 * Full-stack Web Development student at [Trybe](https://github.com/tryber)
