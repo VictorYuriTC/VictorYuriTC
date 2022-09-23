@@ -7,13 +7,14 @@
 # Hard skills
 
 ### Front-end:
-**Input state management:** HTML, JavaScript, React.js (Class components and Functional Components) & Redux
-<br>
-**Styles:** CSS & Tailwind
-<br>
-**Tests:** Jest & React Testing Library
-<br>
-**Agile methodologies:** Scrum & Kanban
+* Input state management:
+   * HTML, JavaScript, React.js (Class components and Functional Components) & Redux
+* Styles:
+   * CSS & Tailwind
+* Tests:
+   * Jest & React Testing Library
+* Agile methodologies:
+   * Scrum & Kanban
 
 ### Back-end:
 Docker & MySQL
