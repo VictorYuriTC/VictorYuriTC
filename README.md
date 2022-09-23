@@ -1,7 +1,7 @@
 ## Email: victoryuritc@yahoo.com
 ## <a href="https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/"> 
 <img align="left" alt="Victor's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> [Victor Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
+</a>[Victor Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
 
 ## Front-end:
 ##### HTML, JavaScript, React.js (Class components and Functional Components) & Redux
