@@ -7,13 +7,13 @@
    * Email: victoryuritc@yahoo.com
    * LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
 * Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
-* **Gerenciamento de estado de inputs:**
+* Gerenciamento de estado de inputs:
    * HTML, JavaScript, React.js (Class components and Functional Components) & Redux
-* **Styles:**
+* Styles:
    * CSS & Tailwind
-* **Testes:**
+* Testes:
    * Jest & React Testing Library
-* **Metodologias ágeis:**
+* Metodologias ágeis:
    * Scrum & Kanban
 * Origem: Curitiba, Paraná, Brasil
 * Estudante desde 21/03/2022
