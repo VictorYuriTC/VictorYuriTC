@@ -4,7 +4,6 @@
 <summary>Sobre mim</summary>
 * Contato
    * Email: victoryuritc@yahoo.com
-   * LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
 * Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
 * Origem: Curitiba, Paraná, Brasil
 * Estudante desde 21/03/2022
