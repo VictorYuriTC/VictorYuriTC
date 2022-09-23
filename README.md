@@ -16,8 +16,10 @@
 ### Game development:
 ##### Lua & Love2D
 
+- - - -
+
 <details>
-<summary>Português</summary>
+<summary>Sobre mim</summary>
 ### Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
 ##### Origem: Curitiba, Paraná, Brasil
 ##### Estudante desde 21/03/2022
@@ -28,7 +30,7 @@
 </details>
 
 <details>
-<summary>English</summary>
+<summary>About me</summary>
 <br>
 ### Full-stack Web Development student at [Trybe](https://github.com/tryber)
 ##### Origin: Curitiba, Paraná, Brasil
