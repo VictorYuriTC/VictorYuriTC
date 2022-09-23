@@ -2,6 +2,10 @@
 
 **<details>**
 <summary>Sobre mim</summary>
+
+* Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
+  
+- - - -
   
 * Contato
    * Email: victoryuritc@yahoo.com
@@ -9,7 +13,6 @@
   
 - - - -
 
-* Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
 * Gerenciamento de estado de inputs:
    * HTML, JavaScript, React.js (Class components and Functional Components) & Redux
 * Styles:
