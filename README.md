@@ -18,7 +18,9 @@
 
 ### Back-end:
 * **Relational database:**
-   * Docker & MySQL
+   * MySQL
+* **Others:**
+   * Docker
 
 ### **Game development:**
 * Main language:
