@@ -1,19 +1,19 @@
-## Email: victoryuritc@yahoo.com
+### Email: victoryuritc@yahoo.com
 
-## LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
+### LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
 
-## Front-end:
+### Front-end:
 ##### HTML, JavaScript, React.js (Class components and Functional Components) & Redux
 ##### CSS & Tailwind
 ##### Jest & React Testing Library
 
-## Back-end:
+### Back-end:
 ##### Docker & MySQL
 
-## Game development:
+### Game development:
 ##### Lua & Love2D
 
-## Full-stack Web Development student at [Trybe](https://github.com/tryber)
+### Full-stack Web Development student at [Trybe](https://github.com/tryber)
 ##### Origin: Curitiba, Paraná, Brasil
 ##### Student since 03/21/2022
 ##### Hobbies:
@@ -21,7 +21,7 @@
 ##### Developing 2D adventure, platform and city-building games
 ##### Learning about cultural aspects from different countries, places and people
 
-## Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
+### Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
 ##### Origem: Curitiba, Paraná, Brasil
 ##### Estudante desde 21/03/2022
 ##### Hobbies:
