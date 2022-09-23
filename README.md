@@ -2,15 +2,15 @@
 ##### LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
 
 ##### Front-end:
-HTML, JavaScript, React.js (Class components and Functional Components) and Redux
-CSS and Tailwind
-Jest and React Testing Library
+###### HTML, JavaScript, React.js (Class components and Functional Components) and Redux
+###### CSS and Tailwind
+###### Jest and React Testing Library
 
 ##### Back-end:
-Docker and MySQL
+###### Docker and MySQL
 
 ##### Game development:
-Lua and Love2D
+###### Lua and Love2D
 
 ##### Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
 ##### Origem: Curitiba, Paraná, Brasil
