@@ -22,6 +22,11 @@
          * Jest & React Testing Library
       * Metodologias ágeis:
          * Scrum & Kanban
+   * Back-end
+      * Banco de dados relacionais:
+         * MySQL
+      * Outros:
+         * Docker
   
 - - - -
   
@@ -55,8 +60,6 @@
          * Jest & React Testing Library
       * Agile methodologies:
          * Scrum & Kanban
-<br>
-
    * Back-end
       * Relational database:
          * MySQL
