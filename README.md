@@ -57,11 +57,11 @@
          * Scrum & Kanban
 <br>
 
-* Back-end
-   * Relational database:
-      * MySQL
-   * Others:
-      * Docker
+   * Back-end
+      * Relational database:
+         * MySQL
+      * Others:
+         * Docker
 - - - -
  
 * Full-stack Web Development student at [Trybe](https://github.com/tryber)
