@@ -20,7 +20,7 @@
 
 <details>
 <summary>Sobre mim</summary>
-* Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
+Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
 * Origem: Curitiba, Paraná, Brasil
 * Estudante desde 21/03/2022
 * Hobbies:
