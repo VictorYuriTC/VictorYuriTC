@@ -4,9 +4,9 @@
 
 - - - -
 
-# Hard skills
+## Hard skills
 
-### Front-end:
+#### Front-end:
 * **Input state management:**
    * HTML, JavaScript, React.js (Class components and Functional Components) & Redux
 * **Styles:**
@@ -16,13 +16,13 @@
 * **Agile methodologies:**
    * Scrum & Kanban
 
-### Back-end:
+#### Back-end:
 * **Relational database:**
    * MySQL
 * **Others:**
    * Docker
 
-### **Game development:**
+#### **Game development:**
 * Main language:
    * Lua
 * **Engines/frameworks:**
@@ -30,14 +30,14 @@
 
 - - - -
 
-# Soft skills
+## Soft skills
 
-### Criativity
-### Leadership
+#### Criativity
+#### Leadership
 
 - - - -
 
-### **<details>**
+**<details>**
 <summary>Sobre mim</summary>
 
 * Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
