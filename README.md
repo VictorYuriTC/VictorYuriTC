@@ -3,11 +3,11 @@
 **<details>**
 <summary>Sobre mim</summary>
 
-* Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
+* **Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)**
   
 - - - -
   
-* Contato
+* **Contato**
    * Email: victoryuritc@yahoo.com
    * LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
   
