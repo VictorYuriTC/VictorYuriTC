@@ -6,6 +6,9 @@
 * Contato
    * Email: victoryuritc@yahoo.com
    * LinkedIn: [Victor Yuri Tavares de Camargo](https://www.linkedin.com/in/victor-yuri-tavares-de-camargo/)
+  
+- - - -
+
 * Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://github.com/tryber)
 * Gerenciamento de estado de inputs:
    * HTML, JavaScript, React.js (Class components and Functional Components) & Redux
