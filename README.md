@@ -1,6 +1,4 @@
-<p align="center">
-**Hello World!**
-</p>
+<h1 align="center">Hello World!</h1>
 
 **<details>**
 <summary>Português</summary>
