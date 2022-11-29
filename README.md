@@ -29,13 +29,11 @@
    * Back-end
       * Banco de dados relacionais:
          * MySQL
+      * Rest APIs:
+         * Node.js
+         * Express.js
       * Outros:
          * Docker
-   * Desenvolvimento de jogos
-      * Language:
-         * Lua
-      * Engines/frameworks:
-         * Love2D
 - - - -
 
 ## **Soft skills**
@@ -83,15 +81,13 @@
       * Agile methodologies:
          * Scrum & Kanban
    * Back-end
+      * Rest APIs:
+         * Node.js
+         * Express.js
       * Relational database:
          * MySQL
       * Others:
          * Docker
-   * Game development
-      * Language:
-         * Lua
-      * Engines/frameworks:
-         * Love2D
 - - - -
   
 ## **Soft skills**
