@@ -1,57 +1,34 @@
-# <h1 align="left">Hello World!</h1>
-
-<details>
-<summary>English</summary>
-  
-- - - -
-
-**Full-stack Web Development student at [Trybe](https://github.com/tryber)**
-  
-- - - -
+<h1>Full-Stack Developer</h1>
   
 ## **Contact**
    * Email: victoryuritc@yahoo.com
    * LinkedIn: [Victor Yuri Tavares de Camargo]()
-
-- - - -
   
 ## **Hard skills**
 
+   * Programming languages:
+      * JavaScript, TypeScript, Dart, Python, and Java
+
    * Front-end
-      * Input state management:
-         * HTML, JavaScript, React.js (Class components and Functional Components) & Redux
-      * Styles:
-         * CSS & Tailwind
-      * Tests:
-         * Jest & React Testing Library
-      * Agile methodologies:
-         * Scrum & Kanban
+      * React.js, React Native, Next, Flutter, and Angular
+      * HTML, CSS, Tailwind, Bootstrap, and Styled-Components
    * Back-end
-      * Rest APIs:
-         * Node.js
-         * Express.js
-      * Relational database:
-         * MySQL
-      * Others:
-         * Docker
-- - - -
+      * Django, MySQL, PostgreSQL, and Docker
   
 ## **Soft skills**
    * Criativity
    * Leadership
    * Communication
-  
-- - - -
+   * Independence
   
 ## **Personal info**
 
 * Origin: Curitiba, Paraná, Brasil
-* Student since 03/21/2022
+* Programming since 2021
 * Hobbies:
    * Listening diversified music genres, from Frank Sinatra :tophat: to Pharrell Williams :smile:, from Hans Zimmer :hourglass: to Paolo Nutini :scotland:
-   * Developing 2D adventure, platform and city-building games
-   * Learning about cultural aspects from different countries, places and people
-</details>
+   * Practicing new technologies, coding, and developing personal projects
+   * Learning about cultural aspects from different countries, places, and people
 
 - - - -
 
