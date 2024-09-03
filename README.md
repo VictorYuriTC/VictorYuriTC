@@ -5,7 +5,6 @@
 * Origin: Curitiba, Paraná, Brasil
 * Programming since 2021
 * Hobbies:
-   * Listening diversified music genres, from Frank Sinatra :tophat: to Pharrell Williams :smile:, from Hans Zimmer :hourglass: to Paolo Nutini :scotland:
    * Practicing new technologies, coding, and developing personal projects
    * Learning about cultural aspects from different countries, places, and people  
   
