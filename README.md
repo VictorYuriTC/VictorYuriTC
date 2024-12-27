@@ -12,12 +12,11 @@
 
    * Programming languages:
       * JavaScript, TypeScript, Dart, Python, and Java
-
    * Front-end
-      * React, React Native, Next, Flutter, and Angular
+      * React, React Native, Next.js, Flutter, and Angular
       * HTML, CSS, Tailwind, Bootstrap, and Styled-Components
    * Back-end
-      * Django, MySQL, PostgreSQL, and Docker
+      * Django, MySQL, PostgreSQL, Spring Boot, and Docker
   
 ## **Soft skills**
    * Independence
