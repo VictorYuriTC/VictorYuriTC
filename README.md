@@ -13,7 +13,7 @@
    * Programming languages:
       * JavaScript, TypeScript, Dart, Python, and Java
    * Front-end
-      * React, React Native, Next.js, Flutter, and Angular
+      * React, React Native, Next.js, Vue, Nuxt.js, Flutter, Gatsby, and Angular
       * HTML, CSS, Tailwind, Bootstrap, and Styled-Components
    * Back-end
       * Django, MySQL, PostgreSQL, Spring Boot, and Docker
