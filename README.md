@@ -3,20 +3,22 @@
 ## **Personal info**
 
 * Origin: Curitiba, Paraná, Brasil
-* Programming since 2021
+* Programming since 2020
 * Hobbies:
+   * Watching NBA games (I’m a Mavs supporter [even after some suspicious moves])
+   * Maintaining my aquariums (I keep mollies, corydoras, neocaridina shrimps, and a fiddler crab)
+   * Learning about cultural aspects from different countries, places, and people
    * Practicing new technologies, coding, and developing personal projects
-   * Learning about cultural aspects from different countries, places, and people  
   
 ## **Hard skills**
 
    * Programming languages:
-      * JavaScript, TypeScript, Dart, Python, and Java
+      * JavaScript, TypeScript, Dart, Python, and C#
    * Front-end
       * React, React Native, Next.js, Vue, Nuxt.js, Flutter, Svelte, SvelteKit, and Gatsby
-      * HTML, CSS, Tailwind, Bootstrap, and Styled-Components
+      * HTML, CSS, CSS Modules, Tailwind, Bootstrap, Styled-Components, and Vuetify
    * Back-end
-      * Django, MySQL, PostgreSQL, Spring Boot, and Docker
+      * Django, .Net, MySQL, PostgreSQL, and Docker
   
 ## **Soft skills**
    * Independence
