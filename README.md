@@ -15,7 +15,7 @@
    * Programming languages:
       * JavaScript, TypeScript, Dart, Python, and C#
    * Front-end
-      * React, React Native, Next.js, Vue, Nuxt.js, Flutter, Svelte, SvelteKit, and Gatsby
+      * React, React Native, Next.js, Vue, Nuxt.js, Flutter, Astro, Svelte, SvelteKit, and Gatsby
       * HTML, CSS, CSS Modules, Tailwind, Bootstrap, Styled-Components, and Vuetify
    * Back-end
       * Django, .Net, MySQL, PostgreSQL, and Docker
